@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/musing-one/index.html",
+    "href": "posts/musing-one/index.html",
+    "title": "Musing Nubmber 1",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "This is my first musing, and it’s a musing on being careful with your tech. Be careful wtih your computers, kids. The impetus for starting this new musings-style site was getting a new computer. But on the third day I had said new computer, I spilled a bit of tea on it because I was being clumsy. And it’s still working ok, but the touchpad doesn’t vibrate anymore when I “click” it, and from what I’ve heard, it’s more a matter of when, not if, something bigger goes wrong eventually. So we’ll see. At this point, I’m trying to enjoy the new computer how I can without being too mad at myself for the spill."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/rid-defaults/index.html",
+    "href": "posts/rid-defaults/index.html",
+    "title": "Get rid of default posts",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Two posts in 5 minutes?! Really, this is just to get rid of the two stock posts that came when I initialized this site with Quarto. Bye."
   },
   {
     "objectID": "index.html",
@@ -26,19 +26,5 @@
     "title": "About",
     "section": "",
     "text": "This is a blog of my short musings - thoughts that I have that I want to write and get out there, little bits of code that I’m working through that I want to have a record of, short reflections on data, research, policy or life. This is a sub-project of my primary blog site, which you can visit if you want longer form posts, usually with code and such."
-  },
-  {
-    "objectID": "posts/musing-one/index.html",
-    "href": "posts/musing-one/index.html",
-    "title": "Musing Nubmber 1",
-    "section": "",
-    "text": "This is my first musing, and it’s a musing on being careful with your tech. Be careful wtih your computers, kids. The impetus for starting this new musings-style site was getting a new computer. But on the third day I had said new computer, I spilled a bit of tea on it because I was being clumsy. And it’s still working ok, but the touchpad doesn’t vibrate anymore when I “click” it, and from what I’ve heard, it’s more a matter of when, not if, something bigger goes wrong eventually. So we’ll see. At this point, I’m trying to enjoy the new computer how I can without being too mad at myself for the spill."
-  },
-  {
-    "objectID": "posts/rid-defaults/index.html",
-    "href": "posts/rid-defaults/index.html",
-    "title": "Get rid of default posts",
-    "section": "",
-    "text": "Two posts in 5 minutes?! Really, this is just to get rid of the two stock posts that came when I initialized this site with Quarto. Bye."
   }
 ]
