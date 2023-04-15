@@ -1,0 +1,8 @@
+---
+title: "Get rid of default posts"
+author: "Cody Tuttle"
+date: "2023-04-15"
+categories: [thoughts, no code]
+---
+
+Two posts in 5 minutes?! Really, this is just to get rid of the two stock posts that came when I initialized this site with Quarto. Bye.
