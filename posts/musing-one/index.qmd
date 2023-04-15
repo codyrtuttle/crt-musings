@@ -1,0 +1,8 @@
+---
+title: "Musing Nubmber 1"
+author: "Cody Tuttle"
+date: "2023-04-15"
+categories: [thoughts, no code]
+---
+
+This is my first musing, and it's a musing on being careful with your tech. Be careful wtih your computers, kids. The impetus for starting this new musings-style site was getting a new computer. But on the third day I had said new computer, I spilled a bit of tea on it because I was being clumsy. And it's still working ok, but the touchpad doesn't vibrate anymore when I "click" it, and from what I've heard, it's more a matter of when, not if, something bigger goes wrong eventually. So we'll see. At this point, I'm trying to enjoy the new computer how I can without being too mad at myself for the spill.  

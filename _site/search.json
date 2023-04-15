@@ -16,9 +16,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "crt-musings",
+    "title": "CRT Musings",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nApr 10, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nApr 7, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Musing Nubmber 1\n\n\n\n\n\n\n\nthoughts\n\n\nno code\n\n\n\n\n\n\n\n\n\n\n\nApr 15, 2023\n\n\nCody Tuttle\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nApr 10, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nApr 7, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -26,5 +26,12 @@
     "title": "About",
     "section": "",
     "text": "This is a blog of my short musings - thoughts that I have that I want to write and get out there, little bits of code that I’m working through that I want to have a record of, short reflections on data, research, policy or life. This is a sub-project of my primary blog site, which you can visit if you want longer form posts, usually with code and such."
+  },
+  {
+    "objectID": "posts/musing-one/index.html",
+    "href": "posts/musing-one/index.html",
+    "title": "Musing Nubmber 1",
+    "section": "",
+    "text": "This is my first musing, and it’s a musing on being careful with your tech. Be careful wtih your computers, kids. The impetus for starting this new musings-style site was getting a new computer. But on the third day I had said new computer, I spilled a bit of tea on it because I was being clumsy. And it’s still working ok, but the touchpad doesn’t vibrate anymore when I “click” it, and from what I’ve heard, it’s more a matter of when, not if, something bigger goes wrong eventually. So we’ll see. At this point, I’m trying to enjoy the new computer how I can without being too mad at myself for the spill."
   }
 ]
