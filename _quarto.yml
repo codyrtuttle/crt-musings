@@ -6,6 +6,8 @@ website:
   navbar:
     right:
       - about.qmd
+      - text: Main Blog
+        href: https://codyrtuttle.netlify.app/ 
       - icon: github
         href: https://github.com/codyrtuttle
       - icon: twitter
