@@ -1,0 +1,8 @@
+---
+title: "Plug for main blog"
+author: "Cody Tuttle"
+date: "2023-04-20"
+categories: [plugs, no code]
+---
+
+Hello! While I've got you here, however you find yourself here, I thought that I'd give a quick plug for my main blog, which I've been operating for a few years. It has posts with code, reflections, and some in between, and it's really where I got started with all of this. So go check it out! 

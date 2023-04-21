@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/main-blog-plug/index.html",
       "/posts/musing-one/index.html",
       "/posts/rid-defaults/index.html"
     ]
