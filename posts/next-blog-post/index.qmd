@@ -1,0 +1,8 @@
+---
+title: "Next post musings"
+author: "Cody Tuttle"
+date: "2023-04-24"
+categories: [no code]
+---
+
+This is a post to say that I'm trying to figure out what to write about next in my main blog. I know I've got this musings blog to keep going with for short little posts like this, but I'd really like to start working on another actual blog post for my main site soon, one with data and analysis and code and all that good stuff. Recently I did some on-the-side data work for a group at my church and I was reminded how much I love working with new datasets and expressing myself in that way. So I want to get back into that for my main blog again. The problem is that I'm not sure what I want to write about, or what kind of data I want to dig in to. One of the obvious choices for me is running data, but I feel like that's all I've been doing or thinking about for data in my last few substantive posts, and none of the data that I've found has been super interesting. The problem is that nothing else is really catching my attention other than that. I was looking on Tidy Tuesday's data site for their recent data postings, and one that kind of caught my eye that I remember seeing a few months ago is data from the Great British Bake Off show. It could be kind of fun to do some digging into that, provided I didn't try to do too much with it. I might just do that to do something. We'll see.
