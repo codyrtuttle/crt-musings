@@ -1,0 +1,8 @@
+---
+title: "New post on main blog"
+author: "Cody Tuttle"
+date: "2023-05-02"
+categories: [no code]
+---
+
+Hellooooo! Just wanted to make a quick plug for a [new blog post](https://codyrtuttle.netlify.app/posts/2023-05-01-minneapolis-neighborhoods/) that I just published on my main blog where I look at Minneapolis neighborhoods! Maps are fun, and I made several of them for different neighborhood characteristic measures I found on MN Compass! Not sure who would be looking at this blog and not that one, but if you haven't yet, go check it out!
