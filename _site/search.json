@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "posts/06-brms-models/index.html",
+    "href": "posts/06-brms-models/index.html",
+    "title": "Running brms models on my macbook",
+    "section": "",
+    "text": "Welp, I finally tried out a Bayesian model in brms tonight on my new computer, and it… didn’t exactly turn out as expected. Here I was thinking it would be lightning fast, a refreshing contrast from my experience on my work computer (Windows with weird laggy R issues), and I run a simple 1 predictor model that took 30 minutes for the first chain to finish. Granted, the data set is pretty big (almost 200k observations), but the model is very simple. I don’t know if I have the time or patience to try to do a lot of trouble shooting on this, so I might be abandoning my pursuit of running Bayesian models for run, at least with this big of data. There’s a chance I’ll try it on smaller data and see how it goes. Wah waaaaah."
+  },
+  {
     "objectID": "posts/musing-one/index.html",
     "href": "posts/musing-one/index.html",
     "title": "Musing Nubmber 1",
@@ -12,20 +19,6 @@
     "title": "Get rid of default posts",
     "section": "",
     "text": "Two posts in 5 minutes?! Really, this is just to get rid of the two stock posts that came when I initialized this site with Quarto. Bye."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "CRT Musings",
-    "section": "",
-    "text": "Running brms models on my macbook\n\n\n\n\n\n\n\nr\n\n\nbrms\n\n\nbayesian\n\n\n\n\n\n\n\n\n\n\n\nMay 2, 2023\n\n\nCody Tuttle\n\n\n\n\n\n\n  \n\n\n\n\nNew post on main blog\n\n\n\n\n\n\n\nno code\n\n\n\n\n\n\n\n\n\n\n\nMay 2, 2023\n\n\nCody Tuttle\n\n\n\n\n\n\n  \n\n\n\n\nNext post musings\n\n\n\n\n\n\n\nno code\n\n\n\n\n\n\n\n\n\n\n\nApr 24, 2023\n\n\nCody Tuttle\n\n\n\n\n\n\n  \n\n\n\n\nPlug for main blog\n\n\n\n\n\n\n\nplugs\n\n\nno code\n\n\n\n\n\n\n\n\n\n\n\nApr 20, 2023\n\n\nCody Tuttle\n\n\n\n\n\n\n  \n\n\n\n\nMusing Nubmber 1\n\n\n\n\n\n\n\nthoughts\n\n\nno code\n\n\n\n\n\n\n\n\n\n\n\nApr 15, 2023\n\n\nCody Tuttle\n\n\n\n\n\n\n  \n\n\n\n\nGet rid of default posts\n\n\n\n\n\n\n\nthoughts\n\n\nno code\n\n\n\n\n\n\n\n\n\n\n\nApr 15, 2023\n\n\nCody Tuttle\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This is a blog of my short musings - thoughts that I have that I want to write and get out there, little bits of code that I’m working through that I want to have a record of, short reflections on data, research, policy or life. This is a sub-project of my primary blog site, which you can visit if you want longer form posts, usually with code and such."
   },
   {
     "objectID": "posts/main-blog-plug/index.html",
@@ -49,10 +42,17 @@
     "text": "Hellooooo! Just wanted to make a quick plug for a new blog post that I just published on my main blog where I look at Minneapolis neighborhoods! Maps are fun, and I made several of them for different neighborhood characteristic measures I found on MN Compass! Not sure who would be looking at this blog and not that one, but if you haven’t yet, go check it out!"
   },
   {
-    "objectID": "posts/06-brms-models/index.html",
-    "href": "posts/06-brms-models/index.html",
-    "title": "Running brms models on my macbook",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CRT Musings",
     "section": "",
-    "text": "Welp, I finally tried out a Bayesian model in brms tonight on my new computer, and it… didn’t exactly turn out as expected. Here I was thinking it would be lightning fast, a refreshing contrast from my experience on my work computer (Windows with weird laggy R issues), and I run a simple 1 predictor model that took 30 minutes for the first chain to finish. Granted, the data set is pretty big (almost 200k observations), but the model is very simple. I don’t know if I have the time or patience to try to do a lot of trouble shooting on this, so I might be abandoning my pursuit of running Bayesian models for run, at least with this big of data. There’s a chance I’ll try it on smaller data and see how it goes. Wah waaaaah."
+    "text": "Running brms models on my macbook\n\n\n\n\n\n\n\nr\n\n\nbrms\n\n\nbayesian\n\n\n\n\n\n\n\n\n\n\n\nMay 9, 2023\n\n\nCody Tuttle\n\n\n\n\n\n\n  \n\n\n\n\nNew post on main blog\n\n\n\n\n\n\n\nno code\n\n\n\n\n\n\n\n\n\n\n\nMay 2, 2023\n\n\nCody Tuttle\n\n\n\n\n\n\n  \n\n\n\n\nNext post musings\n\n\n\n\n\n\n\nno code\n\n\n\n\n\n\n\n\n\n\n\nApr 24, 2023\n\n\nCody Tuttle\n\n\n\n\n\n\n  \n\n\n\n\nPlug for main blog\n\n\n\n\n\n\n\nplugs\n\n\nno code\n\n\n\n\n\n\n\n\n\n\n\nApr 20, 2023\n\n\nCody Tuttle\n\n\n\n\n\n\n  \n\n\n\n\nMusing Nubmber 1\n\n\n\n\n\n\n\nthoughts\n\n\nno code\n\n\n\n\n\n\n\n\n\n\n\nApr 15, 2023\n\n\nCody Tuttle\n\n\n\n\n\n\n  \n\n\n\n\nGet rid of default posts\n\n\n\n\n\n\n\nthoughts\n\n\nno code\n\n\n\n\n\n\n\n\n\n\n\nApr 15, 2023\n\n\nCody Tuttle\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is a blog of my short musings - thoughts that I have that I want to write and get out there, little bits of code that I’m working through that I want to have a record of, short reflections on data, research, policy or life. This is a sub-project of my primary blog site, which you can visit if you want longer form posts, usually with code and such."
   }
 ]

@@ -1,7 +1,7 @@
 ---
 title: "Running `brms` models on my macbook"
 author: "Cody Tuttle"
-date: "2023-05-02"
+date: "2023-05-09"
 categories: [r, brms, bayesian]
 ---
 
