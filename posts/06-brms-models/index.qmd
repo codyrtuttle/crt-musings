@@ -1,0 +1,8 @@
+---
+title: "Running `brms` models on my macbook"
+author: "Cody Tuttle"
+date: "2023-05-02"
+categories: [r, brms, bayesian]
+---
+
+Welp, I finally tried out a Bayesian model in `brms` tonight on my new computer, and it... didn't exactly turn out as expected. Here I was thinking it would be lightning fast, a refreshing contrast from my experience on my work computer (Windows with weird laggy R issues), and I run a simple 1 predictor model that took 30 minutes for the first chain to finish. Granted, the data set is pretty big (almost 200k observations), but the model is very simple. I don't know if I have the time or patience to try to do a lot of trouble shooting on this, so I might be abandoning my pursuit of running Bayesian models for run, at least with this big of data. There's a chance I'll try it on smaller data and see how it goes. Wah waaaaah.
